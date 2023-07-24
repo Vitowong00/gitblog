@@ -13,7 +13,7 @@ on:
       - main.py
 
 env:
-  GITHUB_NAME: Vitowong
+  GITHUB_NAME: Vitowong00
   GITHUB_EMAIL: luckgodand7@gmail.com
 
 
