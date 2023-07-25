@@ -10,5 +10,11 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [好像操作有问题，再试试。。](https://github.com/Vitowong00/gitblog/issues/7)--2023-07-25
 - [最后一次了，真的麻了。。。](https://github.com/Vitowong00/gitblog/issues/6)--2023-07-24
 - [删除错误的后，密钥也给删除了，又重新创建了一个](https://github.com/Vitowong00/gitblog/issues/5)--2023-07-24
+  
 ## 杂记
 - [好像操作有问题，再试试。。](https://github.com/Vitowong00/gitblog/issues/7)--2023-07-25
+
+## 技术
+
+## 生活
+  
