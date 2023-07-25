@@ -11,8 +11,12 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [网站建设框架-hugo](https://github.com/Vitowong00/gitblog/issues/17)--2023-07-25
 - [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--2023-07-25
 - [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
+<details><summary>显示更多</summary>
+
 - [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
+</details>
+
 ## 技术
 - [网站建设框架-hugo](https://github.com/Vitowong00/gitblog/issues/17)--2023-07-25
 - [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--2023-07-25
