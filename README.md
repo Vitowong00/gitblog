@@ -23,7 +23,8 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 - [首发首发首发啊](https://github.com/Vitowong00/gitblog/issues/12)--2023-07-25
 ## TODO
-TODO list from [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16) all done
+TODO list from [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--1 jobs to do--0 jobs done
+- [ ] 影视库notion
 
 TODO list from [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--3 jobs to do--4 jobs done
 - [x] 通过用 GitHub 的 Issues 写博客
