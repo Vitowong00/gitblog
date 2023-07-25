@@ -1,6 +1,8 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/Vitowong00/gitblog/master/feed.xml)
+
+「吾常终日而思矣，不如须臾之所学也」
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
