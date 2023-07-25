@@ -1,32 +1,22 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/Vitowong00/gitblog/master/feed.xml)
-
-「吾常终日而思矣，不如须臾之所学也」
-
-<div>
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 置顶文章
+- [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 ## 最近更新
+- [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 - [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 - [首发首发首发啊](https://github.com/Vitowong00/gitblog/issues/12)--2023-07-25
 ## 技术
 - [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
+## 杂记
+- [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 ## 记录
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 - [首发首发首发啊](https://github.com/Vitowong00/gitblog/issues/12)--2023-07-25
