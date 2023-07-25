@@ -8,11 +8,13 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 ## 最近更新
+- [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--2023-07-25
 - [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 - [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 - [首发首发首发啊](https://github.com/Vitowong00/gitblog/issues/12)--2023-07-25
 ## 技术
+- [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--2023-07-25
 - [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 ## 杂记
@@ -21,6 +23,8 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 - [首发首发首发啊](https://github.com/Vitowong00/gitblog/issues/12)--2023-07-25
 ## TODO
+TODO list from [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16) all done
+
 TODO list from [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--3 jobs to do--4 jobs done
 - [x] 通过用 GitHub 的 Issues 写博客
 - [x] 快捷指令早起记录
