@@ -1,9 +1,7 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/Vitowong00/gitblog/master/feed.xml)
-## 友情链接
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
+
 ## 置顶文章
 - [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
@@ -42,3 +40,6 @@ TODO list from [技术上需要所学的计划](https://github.com/Vitowong00/gi
 - [ ] Markdown语法
 - [ ] 早起小助手2.0
 
+## 友情链接
+| Name | Link | Desc | 
+ | ---- | ---- | ---- |
