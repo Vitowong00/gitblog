@@ -29,14 +29,5 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 TODO list from [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--1 jobs to do--0 jobs done
 - [ ] 影视库notion
 
-TODO list from [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--5 jobs to do--4 jobs done
-- [x] 通过用 GitHub 的 Issues 写博客
-- [x] 快捷指令早起记录
-- [x] GitHub Pages + Hexo搭建个人博客网站
-- [x] 早起小助手1.0
-- [ ] 学习简单的ob使用
-- [ ] 网站建设框架-GitHub Pages + hugo
-- [ ] 创建一个电报bot
-- [ ] Markdown语法
-- [ ] 早起小助手2.0
+TODO list from [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14) all done
 
