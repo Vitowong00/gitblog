@@ -29,5 +29,20 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 TODO list from [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--1 jobs to do--0 jobs done
 - [ ] 影视库notion
 
-TODO list from [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14) all done
+TODO list from [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--1 jobs to do--14 jobs done
+- [x] 通过用 GitHub 的 Issues 写博客
+- [x] 快捷指令早起记录
+- [x] GitHub Pages + Hexo搭建个人博客网站
+- [x] 学习简单的ob使用
+- [x] 网站建设框架-GitHub Pages + hugo
+- [x] 创建一个电报bot
+- [x] Markdown语法
+- [x] 早起小助手1.0
+- [x] 早起小助手2.0
+- [x] Gridea 博客建立
+- [x] 自建密码库Bitwarden
+- [x] 图床的建立 阿里云+uPic
+- [x] PopClip 插件完善 可以日常满足我的使用。
+- [x] Bob 插件完整 可以满足我的使用。
+- [ ] craft 熟练掌握
 
