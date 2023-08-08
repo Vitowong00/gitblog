@@ -8,11 +8,11 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 ## 最近更新
+- [《如何提高工作效率》——Sam Altman](https://github.com/Vitowong00/gitblog/issues/19)--2023-08-08
 - [Inception 的完成](https://github.com/Vitowong00/gitblog/issues/18)--2023-07-31
 - [网站建设框架-hugo](https://github.com/Vitowong00/gitblog/issues/17)--2023-07-25
 - [豆瓣标记导出到 Notion 并同步](https://github.com/Vitowong00/gitblog/issues/16)--2023-07-25
 - [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
-- [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--2023-07-25
 ## 技术
 - [Inception 的完成](https://github.com/Vitowong00/gitblog/issues/18)--2023-07-31
 - [网站建设框架-hugo](https://github.com/Vitowong00/gitblog/issues/17)--2023-07-25
@@ -20,6 +20,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [技术上需要所学的计划](https://github.com/Vitowong00/gitblog/issues/14)--2023-07-25
 - [总结](https://github.com/Vitowong00/gitblog/issues/13)--2023-07-25
 ## 杂记
+- [《如何提高工作效率》——Sam Altman](https://github.com/Vitowong00/gitblog/issues/19)--2023-08-08
 - [The Dark Side of ‘Hustle Culture’](https://github.com/Vitowong00/gitblog/issues/15)--2023-07-25
 ## 记录
 - [Inception 的完成](https://github.com/Vitowong00/gitblog/issues/18)--2023-07-31
